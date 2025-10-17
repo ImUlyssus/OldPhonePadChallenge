@@ -1,0 +1,14 @@
+/Users/kyawhein/Downloads/OldPhonePadChallenge/OldPhonePadChallenge/bin/Debug/net9.0/OldPhonePadChallenge
+/Users/kyawhein/Downloads/OldPhonePadChallenge/OldPhonePadChallenge/bin/Debug/net9.0/OldPhonePadChallenge.deps.json
+/Users/kyawhein/Downloads/OldPhonePadChallenge/OldPhonePadChallenge/bin/Debug/net9.0/OldPhonePadChallenge.runtimeconfig.json
+/Users/kyawhein/Downloads/OldPhonePadChallenge/OldPhonePadChallenge/bin/Debug/net9.0/OldPhonePadChallenge.dll
+/Users/kyawhein/Downloads/OldPhonePadChallenge/OldPhonePadChallenge/bin/Debug/net9.0/OldPhonePadChallenge.pdb
+/Users/kyawhein/Downloads/OldPhonePadChallenge/OldPhonePadChallenge/obj/Debug/net9.0/OldPhonePadChallenge.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kyawhein/Downloads/OldPhonePadChallenge/OldPhonePadChallenge/obj/Debug/net9.0/OldPhonePadChallenge.AssemblyInfoInputs.cache
+/Users/kyawhein/Downloads/OldPhonePadChallenge/OldPhonePadChallenge/obj/Debug/net9.0/OldPhonePadChallenge.AssemblyInfo.cs
+/Users/kyawhein/Downloads/OldPhonePadChallenge/OldPhonePadChallenge/obj/Debug/net9.0/OldPhonePadChallenge.csproj.CoreCompileInputs.cache
+/Users/kyawhein/Downloads/OldPhonePadChallenge/OldPhonePadChallenge/obj/Debug/net9.0/OldPhonePadChallenge.dll
+/Users/kyawhein/Downloads/OldPhonePadChallenge/OldPhonePadChallenge/obj/Debug/net9.0/refint/OldPhonePadChallenge.dll
+/Users/kyawhein/Downloads/OldPhonePadChallenge/OldPhonePadChallenge/obj/Debug/net9.0/OldPhonePadChallenge.pdb
+/Users/kyawhein/Downloads/OldPhonePadChallenge/OldPhonePadChallenge/obj/Debug/net9.0/OldPhonePadChallenge.genruntimeconfig.cache
+/Users/kyawhein/Downloads/OldPhonePadChallenge/OldPhonePadChallenge/obj/Debug/net9.0/ref/OldPhonePadChallenge.dll
